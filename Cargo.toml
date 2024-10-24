@@ -1,0 +1,10 @@
+[package]
+name = "parser_hiskyi"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Very cool parser"
+authors = ["Hibskyi Vladyslav"]
+
+[dependencies]
+peg = "0.8.4"
